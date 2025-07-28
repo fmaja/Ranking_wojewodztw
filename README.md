@@ -18,9 +18,6 @@ Analizę przeprowadzono na podstawie danych wtórnych pochodzących z Głównego
 - Liczba użytkowników i odwiedzin
 - Zajęcia artystyczne, koła tematyczne, wystawy
 
-## Źródło danych:
-Główny Urząd Statystyczny (GUS), dane wtórne z 2023 roku.
-
 ## Technologie:
 - R (obliczenia statystyczne, wizualizacje)
 - Excel (wstępna obróbka danych)
